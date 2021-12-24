@@ -1,0 +1,10 @@
+name: offline_first
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  dart_package_boilerplate:
+    path: ../

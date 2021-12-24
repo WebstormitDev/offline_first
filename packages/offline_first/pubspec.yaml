@@ -1,0 +1,13 @@
+name: offline_first
+version: 0.1.0
+description: Offline first for Dart and Flutter
+repository: https://github.com/WebstormitDev/offline_first
+homepage: https://github.com/WebstormitDev/offline_first
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  
+dev_dependencies: 
+  lints: ^1.0.1
